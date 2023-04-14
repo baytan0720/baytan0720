@@ -24,4 +24,5 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Mac](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
 
+
 [![Baytan's GitHub stats](https://github-readme-stats.vercel.app/api?username=baytan0720&show_icons=truetheme=dark)](https://github.com/anuraghazra/github-readme-stats)
