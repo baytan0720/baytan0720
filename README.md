@@ -22,6 +22,6 @@
 ![Mysql](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Mac](https://img.shields.io/badge/mac%20os-000000?style=flat-square&logo=apple&logoColor=white)
+![Mac](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
 
 [![Baytan's GitHub stats](https://github-readme-stats.vercel.app/api?username=baytan0720&show_icons=truetheme=dark)](https://github.com/anuraghazra/github-readme-stats)
