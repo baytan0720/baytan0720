@@ -10,7 +10,7 @@
 - 🧑‍💻 I'm in an internship now.
 - 🎯 I'm a back-end developer.
 - 🤔 My interests are with Go, Middleware...
-- ⚽️ Love football, love Messi, love Argentina, love Barcelona.
+- ⚽️ Love football, love Messi, love Barcelona.
 - 📫 baytan2@hotmail.com
 
 ### Skills and Tools
